@@ -10,5 +10,5 @@ comming soon
 - [Feedback](http://bit.ly/KongkowM2)
 - [Gallery]()
 
-### Republic IoT 2017
+### Republic IoT 2017 (23 - 27 August 2017)
 - [Report](http://s.id/3mX)
