@@ -4,7 +4,7 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 ### 1st Meetup - Docker Day
 comming soon
 
-### 2nd Meetup - Frontend with Vue.Js
+### 2nd Meetup - Frontend with Vue.Js (26 August 2017)
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Code Repo](https://github.com/KongkowITMedan/vue-todo)
 - [Feedback](http://bit.ly/KongkowM2)
