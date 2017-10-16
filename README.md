@@ -10,7 +10,7 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 :sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9) |
 :video_camera: [Video](https://youtu.be/oapA7UP5RFA)
 
-### Frontend with Vue.js
+### Frontend with Vue.js 
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Demo code](https://github.com/KongkowITMedan/vue-todo)
   
@@ -37,4 +37,5 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 - [Demo code](https://github.com/albertsuwandhi/IoT-Introduction-Demo)
 
 ## Other
-  - [Republic IoT 2017 (23 - 27 August 2017)](http://s.id/3mX)
+  - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
+  - [Kulgram Monad Intro](https://kongkowitmedan.github.io/kulgram-16-9-2017-monad-intro/) by [Alex Xandra Albert Sim](https://github.com/bertzzie)
