@@ -7,7 +7,8 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 
 ## 2nd Meetup (26 August 2017)
 :speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2) | 
-:sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9)
+:sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9) |
+:video_camera: [Video](https://youtu.be/oapA7UP5RFA)
 
 ### Frontend with Vue.js
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
