@@ -21,12 +21,13 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 
 ### Kotlin: A Better Java Language
 - [Speaker](https://github.com/desdulianto)
-- [Slide](https://slides.com/desdulianto/kotlin/)
+- [Slide](https://slides.com/desdulianto/kotlin)
 - [Demo code](https://github.com/KongkowITMedan/kotlin-a-better-java)
 - [Todo frontend code](https://github.com/KongkowITMedan/kotlin-todo)
 - [Todo backend code](https://github.com/KongkowITMedan/vue-kotlin-todo)
 ### Anko: Pleasant Android Application Development
 - [Speaker](https://github.com/zigic88)
+- [Slide](http://slides.com/zigic88/anko)
 - [Demo code](https://github.com/KongkowITMedan/anko-kotlin-todo)
       
 ## 4th Meetup (14 October 2017)
