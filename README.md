@@ -33,7 +33,7 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 :speech_balloon: [Feedback](https://goo.gl/forms/DjeGO2Pgudfy1HSS2) |
 :sunrise: [Gallery](https://photos.app.goo.gl/a5ffby9hgMAPsiak1)
 
-### Arduino Multiple Sensor
+### Arduino Multiple Sensors
 - [Speaker](https://github.com/wiliantogan)
 - [Demo code](https://github.com/wiliantogan/IoT-Introduction-Arduino-Multiple-Sensors)
 
