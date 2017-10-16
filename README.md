@@ -1,9 +1,12 @@
 # Meetup & Event Documentations
-Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
+Meet-up & events documentation by Kongkow IT Medan group.
 
 ## 1st Meetup (19 November 2016)
 ### Docker Mentor Week
->Coming soon
+- [Speaker 1](https://github.com/albertsuwandhi)
+- [Speaker 2](https://github.com/desdulianto)
+- [Speaker 3](https://github.com/IndraGunawan)
+- [Slide](https://www.slideshare.net/albertsuwandhi/docker-mentor-week-2016-medan)
 
 ## 2nd Meetup (26 August 2017)
 :speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2) | 
