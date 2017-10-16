@@ -10,7 +10,8 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 :sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9) |
 :video_camera: [Video](https://youtu.be/oapA7UP5RFA)
 
-### Frontend with Vue.js 
+### Frontend with Vue.js
+- [Speaker](https://github.com/kevinongko)
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Demo code](https://github.com/KongkowITMedan/vue-todo)
   
@@ -19,11 +20,13 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 :sunrise: [Gallery](https://photos.app.goo.gl/fTTzbVXFrhYMZFxF2)
 
 ### Kotlin: A Better Java Language
+- [Speaker](https://github.com/desdulianto)
 - [Slide](https://slides.com/desdulianto/kotlin/)
 - [Demo code](https://github.com/KongkowITMedan/kotlin-a-better-java)
 - [Todo frontend code](https://github.com/KongkowITMedan/kotlin-todo)
 - [Todo backend code](https://github.com/KongkowITMedan/vue-kotlin-todo)
 ### Anko: Pleasant Android Application Development
+- [Speaker](https://github.com/zigic88)
 - [Demo code](https://github.com/KongkowITMedan/anko-kotlin-todo)
       
 ## 4th Meetup (14 October 2017)
@@ -31,9 +34,11 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 :sunrise: [Gallery](https://photos.app.goo.gl/a5ffby9hgMAPsiak1)
 
 ### Arduino Multiple Sensor
+- [Speaker](https://github.com/wiliantogan)
 - [Demo code](https://github.com/wiliantogan/IoT-Introduction-Arduino-Multiple-Sensors)
 
 ### Internet of Things(IoT): Introduction & Demo
+- [Speaker](https://github.com/albertsuwandhi)
 - [Demo code](https://github.com/albertsuwandhi/IoT-Introduction-Demo)
 
 ## Other
