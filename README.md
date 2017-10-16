@@ -6,14 +6,14 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 >Coming soon
 
 ### 2nd Meetup (26 August 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2)
+:speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2) | 
 :sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9)
 #### Frontend with Vue.js
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Demo code](https://github.com/KongkowITMedan/vue-todo)
   
 ### 3rd Meetup (23 September 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/yqGgqkorrPBlhucv2)
+:speech_balloon: [Feedback](https://goo.gl/forms/yqGgqkorrPBlhucv2) |
 :sunrise: [Gallery](https://photos.app.goo.gl/fTTzbVXFrhYMZFxF2)
 #### Kotlin: A Better Java Language
 - [Slide](https://slides.com/desdulianto/kotlin/)
@@ -24,7 +24,7 @@ Berisi dokumentasi meetup & Events oleh Member Group Kongkow IT Medan
 - [Demo code](https://github.com/KongkowITMedan/anko-kotlin-todo)
       
 ### 4th Meetup (14 October 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/DjeGO2Pgudfy1HSS2)
+:speech_balloon: [Feedback](https://goo.gl/forms/DjeGO2Pgudfy1HSS2) |
 :sunrise: [Gallery](https://photos.app.goo.gl/a5ffby9hgMAPsiak1)
 
 ### Other
