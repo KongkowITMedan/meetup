@@ -9,7 +9,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Slide](https://www.slideshare.net/albertsuwandhi/docker-mentor-week-2016-medan)
 
 ## 2nd Meetup (26 August 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2) | 
+:speech_balloon: [Feedback](https://goo.gl/forms/Dg7xtFmglhZpLNZT2) |
 :sunrise: [Gallery](https://goo.gl/photos/f6pNgZAWKyc9DUCi9) |
 :video_camera: [Video](https://youtu.be/oapA7UP5RFA)
 
@@ -17,7 +17,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Speaker](https://github.com/kevinongko)
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Demo code](https://github.com/KongkowITMedan/vue-todo)
-  
+
 ## 3rd Meetup (23 September 2017)
 :speech_balloon: [Feedback](https://goo.gl/forms/yqGgqkorrPBlhucv2) |
 :sunrise: [Gallery](https://photos.app.goo.gl/fTTzbVXFrhYMZFxF2)
@@ -32,7 +32,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Speaker](https://github.com/zigic88)
 - [Slide](http://slides.com/zigic88/anko)
 - [Demo code](https://github.com/KongkowITMedan/anko-kotlin-todo)
-      
+
 ## 4th Meetup (14 October 2017)
 :speech_balloon: [Feedback](https://goo.gl/forms/DjeGO2Pgudfy1HSS2) |
 :sunrise: [Gallery](https://photos.app.goo.gl/a5ffby9hgMAPsiak1)
@@ -46,10 +46,13 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Demo code](https://github.com/albertsuwandhi/IoT-Introduction-Demo)
 
 ## 5th Meetup (28 October 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/CnOGeETm87jfDIX53)
+:speech_balloon: [Feedback](https://goo.gl/forms/CnOGeETm87jfDIX53) |
+:sunrise: [Gallery](https://photos.app.goo.gl/V4JCC1CtwpLmgMug1)
 
 ### Improving Software Quality with CI/CD
 - [Speaker](https://github.com/IndraGunawan)
+- [Slide - Software Testing](https://speakerdeck.com/indragunawan/software-testing)
+- [Slide - Continuous Integration & Continuous Deployment](https://speakerdeck.com/indragunawan/continuous-integration-and-continuous-deployment)
 - [Demo code 1](https://github.com/KongkowITMedan/meetup5-blog)
 - [Demo code 2](https://github.com/KongkowITMedan/testing-php-meetup5)
 
