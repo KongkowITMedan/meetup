@@ -45,6 +45,14 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Speaker](https://github.com/albertsuwandhi)
 - [Demo code](https://github.com/albertsuwandhi/IoT-Introduction-Demo)
 
+## 5th Meetup (28 October 2017)
+:speech_balloon: [Feedback](https://goo.gl/forms/CnOGeETm87jfDIX53)
+
+### Improving Software Quality with CI/CD
+- [Speaker](https://github.com/IndraGunawan)
+- [Demo code 1](https://github.com/KongkowITMedan/meetup5-blog)
+- [Demo code 2](https://github.com/KongkowITMedan/testing-php-meetup5)
+
 ## Other
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
   - [Kulgram Monad Intro](https://kongkowitmedan.github.io/kulgram-16-9-2017-monad-intro/) by [Alex Xandra Albert Sim](https://github.com/bertzzie)
