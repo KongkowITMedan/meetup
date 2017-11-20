@@ -59,7 +59,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 ## 6th Meetup (19 November 2017)
 :speech_balloon: [Feedback](hhttps://goo.gl/forms/Y807JknZHn81SV0z2)
 
-### Programming Language Through the Ages: A Reflection of The Giant’s Shoulder
+### Programming Language History
 - [Speaker](http://github.com/bertzzie)
 - [Slide](https://speakerdeck.com/bertzzie/programming-language-through-the-ages-a-reflection-of-the-giants-shoulder)
 
