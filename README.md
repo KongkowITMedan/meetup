@@ -57,7 +57,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Demo code 2](https://github.com/KongkowITMedan/testing-php-meetup5)
 
 ## 6th Meetup (19 November 2017)
-:speech_balloon: [Feedback](hhttps://goo.gl/forms/Y807JknZHn81SV0z2)
+:speech_balloon: [Feedback](https://goo.gl/forms/Y807JknZHn81SV0z2)
 
 ### Programming Language History
 - [Speaker](http://github.com/bertzzie)
