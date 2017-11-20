@@ -56,6 +56,13 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Demo code 1](https://github.com/KongkowITMedan/meetup5-blog)
 - [Demo code 2](https://github.com/KongkowITMedan/testing-php-meetup5)
 
+## 6th Meetup (19 November 2017)
+:speech_balloon: [Feedback](hhttps://goo.gl/forms/Y807JknZHn81SV0z2)
+
+### Programming Language Through the Ages: A Reflection of The Giant’s Shoulder
+- [Speaker](http://github.com/bertzzie)
+- [Slide](https://speakerdeck.com/bertzzie/programming-language-through-the-ages-a-reflection-of-the-giants-shoulder)
+
 ## Other
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
   - [Kulgram Monad Intro](https://kongkowitmedan.github.io/kulgram-16-9-2017-monad-intro/) by [Alex Xandra Albert Sim](https://github.com/bertzzie)
