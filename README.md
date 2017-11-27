@@ -55,13 +55,16 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Slide - Continuous Integration & Continuous Deployment](https://speakerdeck.com/indragunawan/continuous-integration-and-continuous-deployment)
 - [Demo code 1](https://github.com/KongkowITMedan/meetup5-blog)
 - [Demo code 2](https://github.com/KongkowITMedan/testing-php-meetup5)
+- [Video](https://youtu.be/T34pk8gf9gI)
 
 ## 6th Meetup (19 November 2017)
-:speech_balloon: [Feedback](https://goo.gl/forms/Y807JknZHn81SV0z2)
+:speech_balloon: [Feedback](https://goo.gl/forms/Y807JknZHn81SV0z2) |
+:sunrise: [Gallery](https://photos.app.goo.gl/3govTzYslqhupwy53)
 
 ### Programming Language History
 - [Speaker](http://github.com/bertzzie)
 - [Slide](https://speakerdeck.com/bertzzie/programming-language-through-the-ages-a-reflection-of-the-giants-shoulder)
+- [Video](https://youtu.be/0NafKacVqd4)
 
 ## Other
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
