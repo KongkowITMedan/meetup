@@ -67,5 +67,6 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Video](https://youtu.be/0NafKacVqd4)
 
 ## Other
+  - [Kongkow IT Medan Introduction](http://slides.com/kevinongko/kongkow-origin#/)
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
   - [Kulgram Monad Intro](https://kongkowitmedan.github.io/kulgram-16-9-2017-monad-intro/) by [Alex Xandra Albert Sim](https://github.com/bertzzie)
