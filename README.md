@@ -66,6 +66,16 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Slide](https://speakerdeck.com/bertzzie/programming-language-through-the-ages-a-reflection-of-the-giants-shoulder)
 - [Video](https://youtu.be/0NafKacVqd4)
 
+## 7th Meetup (13 January 2018)
+:speech_balloon: [Feedback](https://goo.gl/kagtmg) |
+:sunrise: [Gallery](https://photos.app.goo.gl/UhGqWBM68uEP75nk2)
+
+### Microservice Architecture with Spring Cloud
+- [Speaker](https://github.com/mkdika)
+- [Slide](https://goo.gl/gnLSpk)
+- [Demo code](https://github.com/KongkowITMedan/spring-cloud-todo)
+- [Video](https://youtu.be/DACohms5tpo)
+
 ## Other
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
   - [Kulgram Monad Intro](https://kongkowitmedan.github.io/kulgram-16-9-2017-monad-intro/) by [Alex Xandra Albert Sim](https://github.com/bertzzie)
