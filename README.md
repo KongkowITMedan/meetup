@@ -77,6 +77,15 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Demo code](https://github.com/KongkowITMedan/spring-cloud-todo)
 - [Video](https://youtu.be/DACohms5tpo)
 
+## 8th Meetup (24 February 2018)
+:speech_balloon: [Feedback](https://bit.do/kitm8) |
+:sunrise: [Gallery](https://photos.app.goo.gl/bh1ux7UAHb56zT472)
+
+### Improve Software Development Scalability with MV(C/P/VM)
+- Speaker: [Javent Lienata](https://github.com/hugosvent)
+- [Slide](https://bit.ly/KITM8slide)
+- [Video](#)
+
 ## Other
   - [Kongkow IT Medan Introduction](http://slides.com/kevinongko/kongkow-origin#/)
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
