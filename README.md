@@ -3,9 +3,9 @@ Meet-up & events documentation by Kongkow IT Medan group.
 
 ## 1st Meetup (19 November 2016)
 ### Docker Mentor Week
-- [Speaker 1](https://github.com/albertsuwandhi)
-- [Speaker 2](https://github.com/desdulianto)
-- [Speaker 3](https://github.com/IndraGunawan)
+- Speaker: [Albert Suwandhi](https://github.com/albertsuwandhi)
+- Speaker: [Des Dulianto](https://github.com/desdulianto)
+- Speaker: [Indra Gunawan](https://github.com/IndraGunawan)
 - [Slide](https://www.slideshare.net/albertsuwandhi/docker-mentor-week-2016-medan)
 
 ## 2nd Meetup (26 August 2017)
@@ -14,7 +14,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :video_camera: [Video](https://youtu.be/oapA7UP5RFA)
 
 ### Frontend with Vue.js
-- [Speaker](https://github.com/kevinongko)
+- Speaker: [Kevin Ongko](https://github.com/kevinongko)
 - [Slide](https://slides.com/kevinongko/vue-kongkow-meetup-2)
 - [Demo code](https://github.com/KongkowITMedan/vue-todo)
 
@@ -23,13 +23,14 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :sunrise: [Gallery](https://photos.app.goo.gl/fTTzbVXFrhYMZFxF2)
 
 ### Kotlin: A Better Java Language
-- [Speaker](https://github.com/desdulianto)
+- Speaker: [Des Dulianto](https://github.com/desdulianto)
 - [Slide](https://slides.com/desdulianto/kotlin)
 - [Demo code](https://github.com/KongkowITMedan/kotlin-a-better-java)
 - [Todo frontend code](https://github.com/KongkowITMedan/kotlin-todo)
 - [Todo backend code](https://github.com/KongkowITMedan/vue-kotlin-todo)
+
 ### Anko: Pleasant Android Application Development
-- [Speaker](https://github.com/zigic88)
+- Speaker: [Reja](https://github.com/zigic88)
 - [Slide](http://slides.com/zigic88/anko)
 - [Demo code](https://github.com/KongkowITMedan/anko-kotlin-todo)
 
@@ -38,11 +39,11 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :sunrise: [Gallery](https://photos.app.goo.gl/a5ffby9hgMAPsiak1)
 
 ### Arduino Multiple Sensors
-- [Speaker](https://github.com/wiliantogan)
+- Speaker: [Willianto](https://github.com/wiliantogan)
 - [Demo code](https://github.com/wiliantogan/IoT-Introduction-Arduino-Multiple-Sensors)
 
 ### Internet of Things(IoT): Introduction & Demo
-- [Speaker](https://github.com/albertsuwandhi)
+- Speaker: [Albert Suwandhi](https://github.com/albertsuwandhi)
 - [Demo code](https://github.com/albertsuwandhi/IoT-Introduction-Demo)
 
 ## 5th Meetup (28 October 2017)
@@ -50,7 +51,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :sunrise: [Gallery](https://photos.app.goo.gl/V4JCC1CtwpLmgMug1)
 
 ### Improving Software Quality with CI/CD
-- [Speaker](https://github.com/IndraGunawan)
+- Speaker: [Indra Gunawan](https://github.com/IndraGunawan)
 - [Slide - Software Testing](https://speakerdeck.com/indragunawan/software-testing)
 - [Slide - Continuous Integration & Continuous Deployment](https://speakerdeck.com/indragunawan/continuous-integration-and-continuous-deployment)
 - [Demo code 1](https://github.com/KongkowITMedan/meetup5-blog)
@@ -62,7 +63,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :sunrise: [Gallery](https://photos.app.goo.gl/3govTzYslqhupwy53)
 
 ### Programming Language History
-- [Speaker](http://github.com/bertzzie)
+- Speaker: [Alex Xandra Albert Sim](http://github.com/bertzzie)
 - [Slide](https://speakerdeck.com/bertzzie/programming-language-through-the-ages-a-reflection-of-the-giants-shoulder)
 - [Video](https://youtu.be/0NafKacVqd4)
 
@@ -71,7 +72,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 :sunrise: [Gallery](https://photos.app.goo.gl/UhGqWBM68uEP75nk2)
 
 ### Microservice Architecture with Spring Cloud
-- [Speaker](https://github.com/mkdika)
+- Speaker: [Maikel Chandika](https://github.com/mkdika)
 - [Slide](https://goo.gl/gnLSpk)
 - [Demo code](https://github.com/KongkowITMedan/spring-cloud-todo)
 - [Video](https://youtu.be/DACohms5tpo)
