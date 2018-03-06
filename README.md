@@ -85,7 +85,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 ### Improve Software Development Scalability with MV(C/P/VM)
 - Speaker: **Javentira Lienata** [![github][github-logo]][javentira-github] [![linkedin][linkedin-logo]][javentira-in]
 - [Slide](https://bit.ly/KITM8slide)
-- [Video](#)
+- [Video](https://youtu.be/b0Mv414nZyA)
 
 ## Other
   - [Kongkow IT Medan Introduction](http://slides.com/kevinongko/kongkow-origin#/)
