@@ -148,7 +148,7 @@ Meet-up & events documentation by Kongkow IT Medan group.
 [wilson-in]: https://www.linkedin.com/in/wilson--ng
 [mickeel-github]: https://github.com/mickeel
 [mickeel-in]: https://www.linkedin.com/in/mickeel/
-[yudi-umar-github]: https://github.com/yudi-umar
+[yudi-umar-github]: https://github.com/tiok-cek1
 [yudi-umar-in]: https://www.linkedin.com/in/yudiumar/
 [fredy-ong-jaya-github]: https://github.com/FredyOngJaya
 [fredy-ong-jaya-in]: https://www.linkedin.com/in/fredy-ong-jaya/
