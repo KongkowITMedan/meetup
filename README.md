@@ -87,6 +87,39 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Slide](https://bit.ly/KITM8slide)
 - [Video](https://youtu.be/b0Mv414nZyA)
 
+## 9th Meetup (24 March 2018)
+:sunrise: [Gallery](https://photos.app.goo.gl/NNrOsM7HpchMIREE2)
+
+### AI 
+- Speaker: **Yudi Umar** [![github][github-logo]][yudi-umar-github] [![linkedin][linkedin-logo]][yudi-umar-in]
+- [Slide](https://goo.gl/agqeYt)
+- [Code](https://github.com/tiok-cek1/flappy-bird-genetic-algorithm)
+
+### ML
+- Speaker: **Fredy Ong Jaya** [![github][github-logo]][fredy-ong-jaya-github] [![linkedin][linkedin-logo]][fredy-ong-jaya-in]
+- [Slide](https://goo.gl/p8PuD5)
+
+
+## 10th Meetup (21 April 2018)
+:sunrise: [Gallery](https://photos.app.goo.gl/giyzeJxWtNIZnmhI3)
+
+### Animasi 3D
+- Speaker: **Anditya**
+
+
+## 11th Meetup (26 May 2018)
+:sunrise: [Gallery](https://photos.app.goo.gl/DIxS8iCvqqSP0M1q1)
+
+### Contribute to Open Source
+- Speaker: **Wilson** [![github][github-logo]][wilson-github] [![linkedin][linkedin-logo]][wilson-in]
+- [Slide](https://slides.com/wilson-ng/contribute-to-open-source-using-git)
+- [Demo Contribute](https://github.com/KongkowITMedan/SimpleContribute)
+
+### Digital Measurement
+- Speaker: **Mickeel Pramono** [![github][github-logo]][mickeel-github] [![linkedin][linkedin-logo]][mickeel-in]
+- [Slide](https://speakerdeck.com/mickeel/digital-measurement-with-google-analytics#)
+
+
 ## Other
   - [Kongkow IT Medan Introduction](http://slides.com/kevinongko/kongkow-origin#/)
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
@@ -111,6 +144,15 @@ Meet-up & events documentation by Kongkow IT Medan group.
 [reja-in]: https://www.linkedin.com/in/reja-305309b4/
 [willianto-github]: https://github.com/wiliantogan
 [willianto-in]: https://www.linkedin.com/in/wilianto-gan-1b3669a6/
+[wilson-github]: https://github.com/wilson-ng
+[wilson-in]: https://www.linkedin.com/in/wilson--ng
+[mickeel-github]: https://github.com/mickeel
+[mickeel-in]: https://www.linkedin.com/in/mickeel/
+[yudi-umar-github]: https://github.com/yudi-umar
+[yudi-umar-in]: https://www.linkedin.com/in/yudiumar/
+[fredy-ong-jaya-github]: https://github.com/FredyOngJaya
+[fredy-ong-jaya-in]: https://www.linkedin.com/in/fredy-ong-jaya/
+
 
 [github-logo]: images/github-logo-16.png
 [linkedin-logo]: images/linkedin-16.png
