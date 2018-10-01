@@ -120,6 +120,20 @@ Meet-up & events documentation by Kongkow IT Medan group.
 - [Slide](https://speakerdeck.com/mickeel/digital-measurement-with-google-analytics#)
 
 
+## 12nd Meetup (28 July 2018)
+:sunrise: [Gallery](https://photos.app.goo.gl/frP73q2uPh8W7ZaF7)
+
+### Intro to Unit Test and Metrics
+- Speaker: **Maikel Chandika** [![github][github-logo]][maikel-chandika-github] [![linkedin][linkedin-logo]][maikel-chandika-in]
+- [Slide](https://speakerdeck.com/mkdika/intro-to-unit-test-and-metrics)
+- [Demo Code](https://github.com/mkdika/introunittest)
+
+### Are you React-ing?
+- Speaker: **Ferry Irawan** [![github][github-logo]][ferry-irawan-github] [![linkedin][linkedin-logo]][ferry-irawan-in]
+- [Slide](https://slides.com/ferrwan/react-ing#/)
+- [Demo Code](https://github.com/ferrwan/get-reacting)
+
+
 ## Other
   - [Kongkow IT Medan Introduction](http://slides.com/kevinongko/kongkow-origin#/)
   - [Republic IoT 2017](http://s.id/3mX) (23 - 27 August 2017)
@@ -152,6 +166,8 @@ Meet-up & events documentation by Kongkow IT Medan group.
 [yudi-umar-in]: https://www.linkedin.com/in/yudiumar/
 [fredy-ong-jaya-github]: https://github.com/FredyOngJaya
 [fredy-ong-jaya-in]: https://www.linkedin.com/in/fredy-ong-jaya/
+[ferry-irawan-github]: https://github.com/ferrwan
+[ferry-irawan-in]: https://www.linkedin.com/in/ferrwan/
 
 
 [github-logo]: images/github-logo-16.png
