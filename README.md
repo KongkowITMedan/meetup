@@ -1,7 +1,7 @@
 # Meetup & Event Documentations
 Meet-up & events documentation by Kongkow IT Medan group.
 
-## 12nd Meetup (28 July 2018)
+## 12th Meetup (28 July 2018)
 :sunrise: [Gallery](https://photos.app.goo.gl/frP73q2uPh8W7ZaF7)
 
 ### Intro to Unit Test and Metrics
