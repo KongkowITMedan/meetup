@@ -1,6 +1,14 @@
 # Meetup & Event Documentations
 Meet-up & events documentation by Kongkow IT Medan group.
 
+## 13th Meetup (13 Oct 2018)
+:sunrise: [Gallery](https://photos.app.goo.gl/jfsz3XjPZe3zdSvq8)
+
+### How Javascript Works?
+- Speaker: **Muhammad Rizky Hasibuan** [![github][github-logo]][rizky-github] [![linkedin][linkedin-logo]][rizky-in]
+- [Slide](https://speakerdeck.com/riskteria/how-javascript-works)
+
+
 ## 12th Meetup (28 July 2018)
 :sunrise: [Gallery](https://photos.app.goo.gl/frP73q2uPh8W7ZaF7)
 
@@ -168,6 +176,8 @@ Meet-up & events documentation by Kongkow IT Medan group.
 [maikel-chandika-in]: https://www.linkedin.com/in/maikelchandika/
 [reja-github]: https://github.com/zigic88
 [reja-in]: https://www.linkedin.com/in/reja-305309b4/
+[rizky-github]: https://github.com/riskteria
+[rizky-in]: https://www.linkedin.com/in/riskteria/
 [willianto-github]: https://github.com/wiliantogan
 [willianto-in]: https://www.linkedin.com/in/wilianto-gan-1b3669a6/
 [wilson-github]: https://github.com/wilson-ng
